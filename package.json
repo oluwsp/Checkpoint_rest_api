@@ -1,0 +1,20 @@
+{
+  "name": "checkpoint_rest_api",
+  "version": "1.0.0",
+  "description": "testing API",
+  "homepage": "https://github.com/oluwsp/Checkpoint_rest_api#readme",
+  "bugs": {
+    "url": "https://github.com/oluwsp/Checkpoint_rest_api/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oluwsp/Checkpoint_rest_api.git"
+  },
+  "license": "MIT",
+  "author": "olu",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
